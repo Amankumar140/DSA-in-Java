@@ -1,2 +1,2 @@
 # DSA-in-Java
-this is the dsa practice in java
+this repo for the dsa practice in java
